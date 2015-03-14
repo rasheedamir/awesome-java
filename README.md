@@ -245,6 +245,7 @@ A curated list of awesome Java frameworks, libraries and software. Inspired by o
 * [Apache Kafka](http://kafka.apache.org/) - High-throughput distributed messaging system.
 * [JBoss HornetQ](http://hornetq.jboss.org/) - Clear, concise, modular and made to be embedded.
 * [JeroMQ](https://github.com/zeromq/jeromq) - Pure Java implementation of ZeroMQ.
+* [RabbitMQ](https://www.rabbitmq.com/) - Open-source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP).
 
 ## Miscellaneous
 
